@@ -19,13 +19,18 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*5)+ 1);
+var x=Math.floor((Math.random()*10)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2019/07/3-process-improvement-lessons-from-financial-firms.html"}
-if(x=="2"){xxx="/2019/07/artificial-intelligence-improves-erp-software.html"}
-if(x=="3"){xxx="/2019/07/5-tips-for-prioritizing-erp-equirements.html"}
-if(x=="4"){xxx="/2019/07/cost-to-implement-an-erp-system.html"}
-if(x=="5"){xxx="/2019/06/erp-data-migration-and-cleansing-tips.html"}a_to_ve[i].href="https://www.top-erp-systems.site"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/03/the-best-erp-software-for-small-business.html"}
+if(x=="2"){xxx="/2019/03/how-to-choose-best-erp-for-small.html"}
+if(x=="3"){xxx="/2019/03/erp-software-for-business.html"}
+if(x=="4"){xxx="/2019/03/top-erp-for-small-business.html"}
+if(x=="5"){xxx="/2019/03/choosing-best-erp-software-for-smes.html"}
+if(x=="6"){xxx="/2019/03/erp-software-for-large-companies.html"}
+if(x=="7"){xxx="/2019/03/best-erp-systems-for-midsize-companies.html"}
+if(x=="8"){xxx="/2019/03/selecting-best-erp-software-for-your.html"}
+if(x=="9"){xxx="/2019/02/the-benefits-of-erp-for-small-business.html"}
+if(x=="10"){xxx="/2019/01/the-top-3-erp-vendors.html"}a_to_ve[i].href="https://www.top-erp-systems.site"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
